@@ -1,0 +1,7 @@
+﻿  Global.cpp
+  UI.cpp
+  Generowanie kodu...
+  glad.c
+Maze3D\x64\Debug\glm.obj : warning LNK4042: obiekt określono więcej niż raz; dodatkowe wystąpienia zostały zignorowane
+LINK : warning LNK4098: domyślna biblioteka „MSVCRT” powoduje konflikt z innymi bibliotekami; użyj opcji /NODEFAULTLIB:biblioteka
+  Maze3D.vcxproj -> C:\Users\wojte\OneDrive\Pulpit\STUDIA\SEMESTR V\Projekt - Grafika 3D\Maze\Maze3D v14 - ostateczna_wersja+source+bez_bin\source\x64\Debug\Maze3D.exe
